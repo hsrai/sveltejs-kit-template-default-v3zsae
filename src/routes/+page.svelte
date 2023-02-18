@@ -5,13 +5,13 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>HomeRai</title>
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
 <section>
 	<h1>
-		<span class="welcome">
+		<span class="welcome to HS Rai">
 			<picture>
 				<source srcset={welcome} type="image/webp" />
 				<img src={welcome_fallback} alt="Welcome" />
